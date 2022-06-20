@@ -1,0 +1,53 @@
+<mjml>
+  <mj-head>
+    <mj-preview>Awesomic Newsletter</mj-preview>
+    <mj-title>Awesomic Newsletter</mj-title>
+    <mj-attributes>
+      <mj-all padding="0" />
+      <mj-section background-color="#27273F" padding-left="32px" padding-right="32px" />
+      <mj-text font-family="Arial" color="#ffffff" font-size="16px" font-weight="400" line-height="150%" />
+      <mj-class name="h1" font-size="24px" font-weight="700" />
+      <mj-button color="#000000" font-size="14px" font-weight="500" line-height="93%" border-radius="6px" text-align="center" background-color="#FAE8BC" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+
+    <!-- Hero -->
+    <mj-section>
+      <mj-column padding-top="40px" padding-bottom="40px">
+        <mj-image width="213px" src="/assets/Logo.png" padding-bottom="40px" />
+        <mj-image width="600px" src="/assets/logo.jpeg" border-radius="6px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Info -->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="h1" padding-bottom="20px">
+          Hi Alex ✨
+        </mj-text>
+        <mj-text padding-bottom="32px">
+          Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et.
+          Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.
+          Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi.<br>
+          <br>
+          Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor.
+          Voluptate exercitation incididunt aliquip deserunt reprehenderit elit laborum. <br>
+          <br>
+          Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
+          Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.
+        </mj-text>
+        <mj-button align="left">
+          <span style="display: block; padding: 10px 10px">Try 1 week for 7$</span>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <!-- Footer -->
+    <mj-section>
+    </mj-section>
+
+  </mj-body>
+</mjml>
